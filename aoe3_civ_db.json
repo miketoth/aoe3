@@ -1,0 +1,136 @@
+{
+  "civilizations": [
+    {
+      "name": "British",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Dutch",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "French",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Germans",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Ottomans",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Portuguese",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Russians",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Spanish",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Aztecs",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Haudenosaunee",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Lakota",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Chinese",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Indians",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Japanese",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Incas",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Swedes",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "United States",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Mexicans",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Ethiopians",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Hausa",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Italians",
+      "icon": "",
+      "units": [],
+      "cards": []
+    },
+    {
+      "name": "Maltese",
+      "icon": "",
+      "units": [],
+      "cards": []
+    }
+  ]
+}
