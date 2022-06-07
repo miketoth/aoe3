@@ -4,7 +4,182 @@
       "name": "British",
       "icon": "",
       "units": [],
-      "cards": []
+      "cards": [
+  {
+    "card_name": "2 Settlers",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/d/d1/Spanish_Home_City_1_%282_Settlers%29.png/revision/latest?cb=20220321191859",
+    "description": "Ships 2 Settlers",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "4 Settlers",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/a/ad/Spanish_Home_City_1_%284_Settlers%29.png/revision/latest?cb=20220307212258",
+    "description": "Ships 4 Settlers",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "3 Settlers",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/e/e4/Spanish_Home_City_1_%283_Settlers%29.png/revision/latest?cb=20220307212343",
+    "description": "Ships 3 Settlers",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "5 Settlers",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/d/d5/Spanish_Home_City_1_%285_Settlers%29.png/revision/latest?cb=20220307214354",
+    "description": "Ships 5 Settlers",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "8 Settler",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/2/21/British_Home_City_1_%288_Settlers%29.png/revision/latest?cb=20220307214445",
+    "description": "Ships 8 Settlers",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "Crates of 300 Food",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/a/a2/Spanish_Home_City_1_%28300_Food%29.png/revision/latest?cb=20220307214705",
+    "description": "Ships 300 food",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "Crates of 600 Food",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/0/00/Spanish_Home_City_1_%28600_Food%29.png/revision/latest?cb=20220307215003",
+    "description": "Ships 600 food",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Crates of 700 Food",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/9/9f/Spanish_Home_City_1_%28700_Food%29.png/revision/latest?cb=20220307215323",
+    "description": "Ships 700 food",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Crates of 1000 Food",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/3/3e/Spanish_Home_City_1_%281000_Food%29.png/revision/latest?cb=20220307215612",
+    "description": "Ships 1,000 food",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "Cords of 300 Wood",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/6/63/Spanish_Home_City_1_%28300_Wood%29.png/revision/latest?cb=20220307215807",
+    "description": "Ships 300 wood",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "Cords of 600 Wood",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/5/55/Spanish_Home_City_1_%28600_Wood%29.png/revision/latest?cb=20220307215955",
+    "description": "Ships 600 wood",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Cords of 700 Wood",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/f/f6/Spanish_Home_City_1_%28700_Wood%29.png/revision/latest?cb=20220307220022",
+    "description": "Ships 700 wood",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Cords of 1000 Wood",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/4/44/Spanish_Home_City_1_%281000_Wood%29.png/revision/latest?cb=20220307220054",
+    "description": "Ships 1,000 wood",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "Chests of 300 Coin",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/f/fb/Spanish_Home_City_1_%28300_Coin%29.png/revision/latest?cb=20220307220917",
+    "description": "Ships 300 coin",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "Chests of 600 Coin",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/6/62/Spanish_Home_City_1_%28600_Coin%29.png/revision/latest?cb=20220307221015",
+    "description": "Ships 600 coin",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Chests of 700 Coin",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/0/07/Spanish_Home_City_1_%28700_Coin%29.png/revision/latest?cb=20220307221058",
+    "description": "Ships 700 coin",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Chests of 1000 Coin",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/e/e3/British_Home_City_1_%281000_Coin%29.png/revision/latest?cb=20220307221121",
+    "description": "Ships 1,000 coin",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "TEAM 4 Sheep",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/f/f2/British_Home_City_1_%284_Sheep%29.png/revision/latest?cb=20220307221746",
+    "description": "Ships 4 Sheep",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "7 Sheep + 1 Homestead Wagon",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/7/7f/Spanish_Home_City_1_%287_Sheep%29.png/revision/latest?cb=20220310223705",
+    "description": "Ships 7 Sheep and 1 Homestead Wagon",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "15 Sheep + 1 Homestead Wagon",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/e/ea/Spanish_Home_City_1_%2815_Sheep%29.png/revision/latest?cb=20220307221927",
+    "description": "Ships 15 Sheep and 1 Homestead Wagon",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "TEAM Wool Staple Ports",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/6/61/British_Home_City_1_%28Wool_Staple_Ports%29.png/revision/latest?cb=20220307222647",
+    "description": "Livestock fattens 20% faster; Indian livestock generate +20% XP; Japanese livestock contributes 25% more to Shrines' resource/XP trickle",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "7 Cows",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/a/ab/Spanish_Home_City_1_%287_Cow%29.png/revision/latest?cb=20220307222328",
+    "description": "Ships 7 semi-fattened Cows",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "1 Covered Wagon",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/1/10/Spanish_Home_City_1_%28Covered_Wagon%29.png/revision/latest?cb=20220307223232",
+    "description": "Ships 1 Covered Wagon",
+    "age": "Fortress Age"
+  },
+  {
+    "card_name": "TEAM 2 Surgeons",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/1/13/Spanish_Home_City_1_%282_Surgeons%29.png/revision/latest?cb=20220307223519",
+    "description": "Ship 2 Surgeons",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "4 Surgeons",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/3/35/Spanish_Home_City_1_%284_Surgeons%29.png/revision/latest?cb=20220307223804",
+    "description": "Ship 4 Surgeons",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Florence Nightingale",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/1/1a/British_Home_City_1_%28Florence_Nightingale%29.png/revision/latest?cb=20220307224047",
+    "description": "Manors slowly heal nearby friendly units",
+    "age": "Exploration Age"
+  },
+  {
+    "card_name": "Captain",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/2/2d/British_Home_City_1_%28Captain%29.png/revision/latest?cb=20220307224217",
+    "description": "The Explorer gets +50% hit points and attack, and can use Swashbuckler Attack; Ships an Explorer Dog",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Hot Air Balloons",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/b/b8/Spanish_Home_City_1_%28Hot_Air_Balloon%29.png/revision/latest?cb=20220307231717",
+    "description": "The Explorer can summon a Hot Air Balloon to explore the map for a limited time",
+    "age": "Commerce Age"
+  },
+  {
+    "card_name": "Advanced Balloon",
+    "card_image": "https://static.wikia.nocookie.net/ageofempires/images/2/24/Spanish_Home_City_1_%28Advanced_Balloon%29.png/revision/latest?cb=20220307231523",
+    "description": "Ships an Advanced Hot Air Balloon",
+    "age": "Industrial Age"
+  }
+]
     },
     {
       "name": "Dutch",
